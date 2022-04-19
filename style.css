@@ -90,7 +90,7 @@ h1 img {
 .slider {
     width: 400%;
     background-color: #003232;
-    /* animation: slider 10s infinite; */
+    animation: slider 10s infinite;
 }
 
 .banner {
